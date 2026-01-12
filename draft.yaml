@@ -1,0 +1,18 @@
+models:
+  User:
+    name: string
+    email: string:unique
+    password: string
+
+  Kart:
+    name: string
+    description: text
+    price: decimal:8,2
+    available: boolean
+
+  Reservation:
+    user_id: id
+    kart_id: id
+    date: date
+    time: time
+    status: string
