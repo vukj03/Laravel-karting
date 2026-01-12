@@ -32,4 +32,5 @@ Aplikacija ima podešen GitHub Actions za automatsko testiranje.
 
 ## Linkovi
 - GitHub repozitorijum: https://github.com/vukj03/Laravel-karting
-- Figma dizajn: [Tvoj link ka Figmi]
+- Figma dizajn: https://www.figma.com/make/moYVrCj9PH6tXmJ77rQnoW/Karting-Center-App?t=vnid9xCTg54ZyJCH-20&fullscreen=1
+- Sifra za admin: admin123
