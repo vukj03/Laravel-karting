@@ -44,5 +44,5 @@ jobs:
     - name: Run Database Migrations
       run: php artisan migrate --force
     
-    - name: Run Tests with Verbose Output
-      run: php artisan test --verbose
+    - name: Run Tests
+      run: ./vendor/bin/phpunit --testdox
